@@ -1,0 +1,40 @@
+{
+  "state": [
+    {
+      "title": "abc",
+      "id": 1
+    }
+  ],
+  "insideState": [
+    {
+      "title": "abc1",
+      "collection": "abc",
+      "id": 1
+    },
+    {
+      "title": "abc2",
+      "collection": "abc",
+      "id": 2
+    }
+  ],
+  "insideCard": [
+    {
+      "title": "abc11",
+      "description": "abc11",
+      "collectData": "abc1",
+      "id": 1
+    },
+    {
+      "title": "abc21",
+      "description": "abc21",
+      "collectData": "abc2",
+      "id": 2
+    },
+    {
+      "title": "abc22",
+      "description": "abc22",
+      "collectData": "abc2",
+      "id": 3
+    }
+  ]
+}
